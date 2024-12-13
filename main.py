@@ -1,4 +1,4 @@
-from PyQt5.QtWidgets import QApplication
+from PyQt6.QtWidgets import QApplication
 
 
 from modelo import Modelo
@@ -13,4 +13,4 @@ modelo = Modelo()
 controlador = Controlador(modelo, windows)
 
 windows.show()
-app.exec_()
+app.exec()

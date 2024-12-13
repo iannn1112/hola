@@ -1,6 +1,6 @@
-from PyQt5.QtWidgets import QApplication, QWidget, QHBoxLayout, QLabel, QTextEdit, QPushButton, QVBoxLayout, QLineEdit, QGridLayout
+from PyQt6.QtWidgets import QApplication, QWidget, QHBoxLayout, QLabel, QTextEdit, QPushButton, QVBoxLayout, QLineEdit, QGridLayout
 
-from PyQt5.QtGui import QFont
+from PyQt6.QtGui import QFont
 
 
 CALC_KEYBOARD = [
