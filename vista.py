@@ -13,8 +13,8 @@ CALC_KEYBOARD = [
 
 #tipos de letras que me gustaron: Impact, Times New Roman.
 
-DISPLAY_FONT = QFont("Times New Roman", 22)
-KEYBOARD_FONT = QFont("Times New Roman", 16)
+DISPLAY_FONT = QFont("Comic Sans MS", 22)
+KEYBOARD_FONT = QFont("Comic Sans MS", 16)
 
 class Vista(QWidget):
     __display: QLineEdit
